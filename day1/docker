@@ -1,0 +1,2 @@
+docker login <your-artifactory-url>
+docker push url/repo/dockerimage:dockertag
